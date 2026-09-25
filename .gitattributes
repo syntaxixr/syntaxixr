@@ -1,0 +1,3 @@
+* text=auto eol=lf
+*.svg linguist-generated=true
+profile-summary-card-output/** linguist-generated=true
