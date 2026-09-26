@@ -25,13 +25,14 @@ const syntaxixr = {
   base:      "solid fundamentals — I understand what the code does",
   workflow:  "most of the code is written together with AI",
   copilots:  ["Claude", "GLM", "DeepSeek"],
-  buildsFor: ["Telegram bots", "server automation", "websites", "IoT dashboards"],
-  stack:     ["Python", "JavaScript", "Electron", "Linux", "Docker"],
+  buildsFor: ["dev tools for AI agents", "Telegram bots", "server automation", "websites"],
+  stack:     ["Python", "TypeScript", "JavaScript", "Electron", "Linux", "Docker"],
   motto:     "idea today → working product tonight",
 };
 ```
 
 - 🟣 I turn ideas into working things **fast** — AI writes, I architect, review and ship
+- 🧾 Shipped **[Receipts](https://github.com/syntaxixr/receipts)** — proves that the tests in a PR would have actually caught the bug
 - 🤖 Building **Telegram bots**, automations and self-hosted services on my own VDS
 - 🌐 Making **websites** with motion and attention to detail
 - 📡 Right now: industrial IoT monitoring — MQTT, time-series DB, alerts in Telegram
@@ -61,6 +62,18 @@ const syntaxixr = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7f00ff&height=2&section=header" width="100%"/>
 
 ### 🚀 &nbsp;Projects
+
+<p align="center">
+  <a href="https://github.com/syntaxixr/receipts">
+    <img width="80%" src="https://socialify.git.ci/syntaxixr/receipts/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="Receipts"/>
+  </a>
+  <br/>
+  <sub><b>Receipts</b> — Claude Code skill + GitHub Action. Runs every changed test with the fix and without it, and tells which tests really prove the fix.</sub>
+  <br/>
+  <sub>TypeScript · zero dependencies · pytest / vitest / jest · works in Claude Code, Codex, Cursor · <a href="https://huggingface.co/datasets/syntaxixr/receipts-study">study dataset on 🤗</a></sub>
+</p>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/syntaxixr/OrbSniper">
