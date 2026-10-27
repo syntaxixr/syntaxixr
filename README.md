@@ -58,46 +58,6 @@ const syntaxixr = {
   <img src="https://img.shields.io/badge/Cursor-3b0764?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
 </p>
 
-<!-- ══════════════════════════ PROJECTS ══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7f00ff&height=2&section=header" width="100%"/>
-
-### 🚀 &nbsp;Projects
-
-<p align="center">
-  <a href="https://github.com/syntaxixr/receipts">
-    <img width="80%" src="https://socialify.git.ci/syntaxixr/receipts/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="Receipts"/>
-  </a>
-  <br/>
-  <sub><b>Receipts</b> — Claude Code skill + GitHub Action. Runs every changed test with the fix and without it, and tells which tests really prove the fix.</sub>
-  <br/>
-  <sub>TypeScript · zero dependencies · pytest / vitest / jest · works in Claude Code, Codex, Cursor · <a href="https://huggingface.co/datasets/syntaxixr/receipts-study">study dataset on 🤗</a></sub>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/syntaxixr/OrbSniper">
-    <img width="80%" src="https://socialify.git.ci/syntaxixr/OrbSniper/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="OrbSniper"/>
-  </a>
-  <br/>
-  <sub><b>OrbSniper</b> — Electron app that farms Discord Orbs: accepts, completes and claims Quests while you're away.</sub>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://klassgo.ru"><img src="assets/klassgo.jpg" alt="klassgo.ru"/></a>
-      <br/><b><a href="https://klassgo.ru">klassgo.ru</a></b>
-      <br/><sub>School trips &amp; excursions agency. Static site generator in Python, custom image pipeline, self-hosted.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://zhizntemy.ru"><img src="assets/zhizntemy.jpg" alt="zhizntemy.ru"/></a>
-      <br/><b><a href="https://zhizntemy.ru">zhizntemy.ru</a></b>
-      <br/><sub>Landing page for a documentary film. GSAP + ScrollTrigger animations, dark cinematic design.</sub>
-    </td>
-  </tr>
-</table>
-
 <!-- ══════════════════════════ STATS ══════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:7f00ff&height=2&section=header" width="100%"/>
 
