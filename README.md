@@ -32,7 +32,6 @@ const syntaxixr = {
 ```
 
 - 🟣 I turn ideas into working things **fast** — AI writes, I architect, review and ship
-- 🧾 Shipped **[Receipts](https://github.com/syntaxixr/receipts)** — proves that the tests in a PR would have actually caught the bug
 - 🤖 Building **Telegram bots**, automations and self-hosted services on my own VDS
 - 🌐 Making **websites** with motion and attention to detail
 - 📡 Right now: industrial IoT monitoring — MQTT, time-series DB, alerts in Telegram
