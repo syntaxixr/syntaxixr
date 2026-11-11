@@ -32,6 +32,7 @@ const syntaxixr = {
 ```
 
 - 🟣 I turn ideas into working things **fast** — AI writes, I architect, review and ship
+- 🔎 Built **[rag-telegram-bot](https://github.com/syntaxixr/rag-telegram-bot)** — a Telegram bot that answers from company docs with sources and says so when the answer isn't there (eval: 15/15 answers, 7/7 honest refusals)
 - 🤖 Building **Telegram bots**, automations and self-hosted services on my own VDS
 - 🌐 Making **websites** with motion and attention to detail
 - 📡 Right now: industrial IoT monitoring — MQTT, time-series DB, alerts in Telegram
